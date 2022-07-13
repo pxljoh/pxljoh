@@ -1,4 +1,4 @@
-<h1>I'm Joh</h1>
+<h1>About</h1>
 <p>I've been learning game and web development for some time now.<br>
 Getting to know aspects of the frontend, backend and game design while I can.<br>
 </p>
