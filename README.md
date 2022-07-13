@@ -1,5 +1,5 @@
 <h1>About</h1>
-<p>I've been learning game and web development for some time now.<br>
+<p>I'm Joh and I've been learning game and web development for some time now.<br>
 Getting to know aspects of the frontend, backend and game design while I can.<br>
 </p>
 <h2>Misc</h2>
