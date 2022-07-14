@@ -11,6 +11,7 @@ Getting to know aspects of the frontend, backend and game design while I can.
 ## Misc
 
 - 2d
+- UI/UX
 - html, css
 - Javascript
 - A bit of React
