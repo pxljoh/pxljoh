@@ -1,6 +1,6 @@
 ## About
 
-I'm Joh and I've been learning game and web development for some time now.
+I've been learning game and web development for some time now.
 Getting to know aspects of the frontend, backend and game design while I can.
 
 ## Some links of things of a few things I've played with
