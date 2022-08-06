@@ -1,7 +1,5 @@
 ## About
-
-I've been learning game and web development for some time now.
-Getting to know aspects of the frontend, backend and game design while I can.
+Getting to know aspects of the web frontend, backend and game design.
 
 ## Some links of things of a few things I've played with
 
