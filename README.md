@@ -6,7 +6,7 @@ Getting to know aspects of the frontend, backend and game design while I can.
 ## Some links of things of a few things I've played with
 
 - [Collision detection bouncing off the walls](https://pxljoh.github.io/bouncingsoul/)
-- [Web page built for fun using template literals.](https://pxljoh.github.io/alextaxi/)
+- [Web page built using template literals.](https://pxljoh.github.io/alextaxi/)
 
 ## Misc
 
@@ -14,7 +14,7 @@ Getting to know aspects of the frontend, backend and game design while I can.
 - UI/UX
 - html, css
 - Javascript
-- A bit of React
+- Reactjs
 - Retro Game art
 - Graphics Design
 - Sprite Animation
